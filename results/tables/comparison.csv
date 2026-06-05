@@ -1,0 +1,5 @@
+Algorithm,Profit,Passenger Cost
+Proposed GA+FW,1917917,0.46
+Genetic Algorithm,1650000,0.52
+PSO,1600000,0.55
+Simulated Annealing,1580000,0.57
